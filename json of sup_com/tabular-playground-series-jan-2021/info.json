@@ -1,0 +1,31 @@
+{
+    "name": "tabular-playground-series-jan-2021",
+    "source": "https://www.kaggle.com/competitions/tabular-playground-series-jan-2021",
+    "data_intro": "Practice your ML regression skills on this approachable dataset!",
+    "is_splited": true,
+    "overall_size": 700000,
+    "train_size": 300000,
+    "test_size": 200000,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {},
+    "num_feature_intro": {
+        "id": {},
+        "target": {},
+        "cont1": {},
+        "cont2": {},
+        "cont3": {},
+        "cont4": {},
+        "cont5": {},
+        "cont6": {},
+        "cont7": {},
+        "cont8": {},
+        "cont9": {},
+        "cont10": {},
+        "cont11": {},
+        "cont12": {},
+        "cont13": {},
+        "cont14": {}
+    },
+    "evaluation_metric": "Root Mean Squared Error"
+}

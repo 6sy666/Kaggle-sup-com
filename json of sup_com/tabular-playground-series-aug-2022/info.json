@@ -1,0 +1,42 @@
+{
+    "name": "tabular-playground-series-aug-2022",
+    "source": "https://www.kaggle.com/competitions/tabular-playground-series-aug-2022",
+    "data_intro": "Practice your ML skills on this approachable dataset!",
+    "is_splited": true,
+    "overall_size": 68120,
+    "train_size": 26570,
+    "test_size": 20775,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "product_code": {},
+        "attribute_0": {},
+        "attribute_1": {}
+    },
+    "num_feature_intro": {
+        "id": {},
+        "failure": {},
+        "loading": {},
+        "attribute_2": {},
+        "attribute_3": {},
+        "measurement_0": {},
+        "measurement_1": {},
+        "measurement_2": {},
+        "measurement_3": {},
+        "measurement_4": {},
+        "measurement_5": {},
+        "measurement_6": {},
+        "measurement_7": {},
+        "measurement_8": {},
+        "measurement_9": {},
+        "measurement_10": {},
+        "measurement_11": {},
+        "measurement_12": {},
+        "measurement_13": {},
+        "measurement_14": {},
+        "measurement_15": {},
+        "measurement_16": {},
+        "measurement_17": {}
+    },
+    "evaluation_metric": "Area Under Receiver Operating Characteristic Curve"
+}

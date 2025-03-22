@@ -1,0 +1,28 @@
+{
+    "name": "playground-series-s3e25",
+    "source": "https://www.kaggle.com/competitions/playground-series-s3e25",
+    "data_intro": "Playground Series - Season 3, Episode 25",
+    "is_splited": true,
+    "overall_size": 24285,
+    "train_size": 10407,
+    "test_size": 6939,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {},
+    "num_feature_intro": {
+        "id": {},
+        "Hardness": {},
+        "allelectrons_Total": {},
+        "density_Total": {},
+        "allelectrons_Average": {},
+        "val_e_Average": {},
+        "atomicweight_Average": {},
+        "ionenergy_Average": {},
+        "el_neg_chi_Average": {},
+        "R_vdw_element_Average": {},
+        "R_cov_element_Average": {},
+        "zaratio_Average": {},
+        "density_Average": {}
+    },
+    "evaluation_metric": "Median Absolute Error"
+}

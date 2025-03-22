@@ -1,0 +1,20 @@
+{
+    "name": "playground-for-firing-rate-estimation-2024-2",
+    "source": "https://www.kaggle.com/competitions/playground-for-firing-rate-estimation-2024-2",
+    "data_intro": "発火時刻のデータから瞬時発火率を推定するコンペです。",
+    "is_splited": true,
+    "overall_size": 5044,
+    "train_size": 43,
+    "test_size": 0,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "Time": {}
+    },
+    "num_feature_intro": {
+        "Firing Rate": {},
+        "Time": {},
+        "Trial": {}
+    },
+    "evaluation_metric": "Absolute Error"
+}

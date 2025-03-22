@@ -1,0 +1,28 @@
+{
+    "name": "tabular-playground-series-apr-2021",
+    "source": "https://www.kaggle.com/competitions/tabular-playground-series-apr-2021",
+    "data_intro": "Synthanic - You're going to need a bigger boat",
+    "is_splited": true,
+    "overall_size": 300000,
+    "train_size": 100000,
+    "test_size": 100000,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "Name": {},
+        "Sex": {},
+        "Ticket": {},
+        "Cabin": {},
+        "Embarked": {}
+    },
+    "num_feature_intro": {
+        "PassengerId": {},
+        "Survived": {},
+        "Pclass": {},
+        "Age": {},
+        "SibSp": {},
+        "Parch": {},
+        "Fare": {}
+    },
+    "evaluation_metric": "Categorization Accuracy"
+}

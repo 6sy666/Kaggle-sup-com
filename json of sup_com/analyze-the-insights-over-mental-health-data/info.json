@@ -1,0 +1,36 @@
+{
+    "name": "analyze-the-insights-over-mental-health-data",
+    "source": "https://www.kaggle.com/competitions/analyze-the-insights-over-mental-health-data",
+    "data_intro": "Playground Series",
+    "is_splited": true,
+    "overall_size": 328300,
+    "train_size": 140700,
+    "test_size": 93800,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "Name": {},
+        "Gender": {},
+        "City": {},
+        "Working Professional or Student": {},
+        "Profession": {},
+        "Sleep Duration": {},
+        "Dietary Habits": {},
+        "Degree": {},
+        "Have you ever had suicidal thoughts ?": {},
+        "Family History of Mental Illness": {}
+    },
+    "num_feature_intro": {
+        "id": {},
+        "Depression": {},
+        "Age": {},
+        "Academic Pressure": {},
+        "Work Pressure": {},
+        "CGPA": {},
+        "Study Satisfaction": {},
+        "Job Satisfaction": {},
+        "Work/Study Hours": {},
+        "Financial Stress": {}
+    },
+    "evaluation_metric": "Accuracy Score"
+}

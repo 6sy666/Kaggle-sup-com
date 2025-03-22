@@ -1,0 +1,32 @@
+{
+    "name": "playground-series-s3e11",
+    "source": "https://www.kaggle.com/competitions/playground-series-s3e11",
+    "data_intro": "Playground Series - Season 3, Episode 11",
+    "is_splited": true,
+    "overall_size": 840784,
+    "train_size": 360336,
+    "test_size": 240224,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {},
+    "num_feature_intro": {
+        "id": {},
+        "cost": {},
+        "store_sales(in millions)": {},
+        "unit_sales(in millions)": {},
+        "total_children": {},
+        "num_children_at_home": {},
+        "avg_cars_at home(approx).1": {},
+        "gross_weight": {},
+        "recyclable_package": {},
+        "low_fat": {},
+        "units_per_case": {},
+        "store_sqft": {},
+        "coffee_bar": {},
+        "video_store": {},
+        "salad_bar": {},
+        "prepared_food": {},
+        "florist": {}
+    },
+    "evaluation_metric": "Mean Squared Log Error"
+}

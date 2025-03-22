@@ -1,0 +1,30 @@
+{
+    "name": "playground-series-s4e1",
+    "source": "https://www.kaggle.com/competitions/playground-series-s4e1",
+    "data_intro": "Playground Series - Season 4, Episode 1",
+    "is_splited": true,
+    "overall_size": 385080,
+    "train_size": 165034,
+    "test_size": 110023,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "Surname": {},
+        "Geography": {},
+        "Gender": {}
+    },
+    "num_feature_intro": {
+        "id": {},
+        "Exited": {},
+        "CustomerId": {},
+        "CreditScore": {},
+        "Age": {},
+        "Tenure": {},
+        "Balance": {},
+        "NumOfProducts": {},
+        "HasCrCard": {},
+        "IsActiveMember": {},
+        "EstimatedSalary": {}
+    },
+    "evaluation_metric": "Roc Auc Score"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "playground-series-s3e15",
+    "source": "https://www.kaggle.com/competitions/playground-series-s3e15",
+    "data_intro": "Playground Series - Season 3, Episode 15",
+    "is_splited": false,
+    "overall_size": 42059,
+    "train_size": 0,
+    "test_size": 0,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "author": {},
+        "geometry": {}
+    },
+    "num_feature_intro": {
+        "id": {},
+        "pressure [MPa]": {},
+        "mass_flux [kg/m2-s]": {},
+        "x_e_out [-]": {},
+        "D_e [mm]": {},
+        "D_h [mm]": {},
+        "length [mm]": {},
+        "chf_exp [MW/m2]": {}
+    },
+    "evaluation_metric": "Root Mean Squared Error"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "playground-series-s3e26",
+    "source": "https://www.kaggle.com/competitions/playground-series-s3e26",
+    "data_intro": "Playground Series - Season 3, Episode 26",
+    "is_splited": true,
+    "overall_size": 18447,
+    "train_size": 7905,
+    "test_size": 5271,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "Drug": {},
+        "Sex": {},
+        "Ascites": {},
+        "Hepatomegaly": {},
+        "Spiders": {},
+        "Edema": {},
+        "Status": {}
+    },
+    "num_feature_intro": {
+        "id": {},
+        "Status_C": {},
+        "Status_CL": {},
+        "Status_D": {},
+        "N_Days": {},
+        "Age": {},
+        "Bilirubin": {},
+        "Cholesterol": {},
+        "Albumin": {},
+        "Copper": {},
+        "Alk_Phos": {},
+        "SGOT": {},
+        "Tryglicerides": {},
+        "Platelets": {},
+        "Prothrombin": {},
+        "Stage": {}
+    },
+    "evaluation_metric": "Log Loss"
+}

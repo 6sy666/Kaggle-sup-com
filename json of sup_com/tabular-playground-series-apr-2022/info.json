@@ -1,0 +1,32 @@
+{
+    "name": "tabular-playground-series-apr-2022",
+    "source": "https://www.kaggle.com/competitions/tabular-playground-series-apr-2022",
+    "data_intro": "Practice your ML skills on this approachable dataset!",
+    "is_splited": true,
+    "overall_size": 2329346,
+    "train_size": 25968,
+    "test_size": 733080,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {},
+    "num_feature_intro": {
+        "sequence": {},
+        "state": {},
+        "subject": {},
+        "step": {},
+        "sensor_00": {},
+        "sensor_01": {},
+        "sensor_02": {},
+        "sensor_03": {},
+        "sensor_04": {},
+        "sensor_05": {},
+        "sensor_06": {},
+        "sensor_07": {},
+        "sensor_08": {},
+        "sensor_09": {},
+        "sensor_10": {},
+        "sensor_11": {},
+        "sensor_12": {}
+    },
+    "evaluation_metric": "Area Under Receiver Operating Characteristic Curve"
+}

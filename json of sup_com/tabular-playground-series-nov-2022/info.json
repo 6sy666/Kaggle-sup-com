@@ -1,0 +1,18 @@
+{
+    "name": "tabular-playground-series-nov-2022",
+    "source": "https://www.kaggle.com/competitions/tabular-playground-series-nov-2022",
+    "data_intro": "Practice your ML skills on this approachable dataset!",
+    "is_splited": true,
+    "overall_size": 200040000,
+    "train_size": 20000,
+    "test_size": 0,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {},
+    "num_feature_intro": {
+        "id": {},
+        "pred": {},
+        "label": {}
+    },
+    "evaluation_metric": "Log Loss"
+}

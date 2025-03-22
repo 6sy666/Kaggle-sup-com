@@ -1,0 +1,28 @@
+{
+    "name": "playground-series-s3e5",
+    "source": "https://www.kaggle.com/competitions/playground-series-s3e5",
+    "data_intro": "Playground Series - Season 3, Episode 5",
+    "is_splited": true,
+    "overall_size": 4800,
+    "train_size": 2056,
+    "test_size": 1372,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {},
+    "num_feature_intro": {
+        "Id": {},
+        "quality": {},
+        "fixed acidity": {},
+        "volatile acidity": {},
+        "citric acid": {},
+        "residual sugar": {},
+        "chlorides": {},
+        "free sulfur dioxide": {},
+        "total sulfur dioxide": {},
+        "density": {},
+        "pH": {},
+        "sulphates": {},
+        "alcohol": {}
+    },
+    "evaluation_metric": "Cohen Kappa Score"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "playground-series-s3e14",
+    "source": "https://www.kaggle.com/competitions/playground-series-s3e14",
+    "data_intro": "Playground Series - Season 3, Episode 14",
+    "is_splited": true,
+    "overall_size": 35677,
+    "train_size": 15289,
+    "test_size": 10194,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {},
+    "num_feature_intro": {
+        "id": {},
+        "yield": {},
+        "clonesize": {},
+        "honeybee": {},
+        "bumbles": {},
+        "andrena": {},
+        "osmia": {},
+        "MaxOfUpperTRange": {},
+        "MinOfUpperTRange": {},
+        "AverageOfUpperTRange": {},
+        "MaxOfLowerTRange": {},
+        "MinOfLowerTRange": {},
+        "AverageOfLowerTRange": {},
+        "RainingDays": {},
+        "AverageRainingDays": {},
+        "fruitset": {},
+        "fruitmass": {},
+        "seeds": {}
+    },
+    "evaluation_metric": "Mean Absolute Error"
+}

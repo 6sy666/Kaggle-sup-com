@@ -1,0 +1,22 @@
+{
+    "name": "playground-series-s3e19",
+    "source": "https://www.kaggle.com/competitions/playground-series-s3e19",
+    "data_intro": "Playground Series - Season 3, Episode 19",
+    "is_splited": true,
+    "overall_size": 191700,
+    "train_size": 136950,
+    "test_size": 27375,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "date": {},
+        "country": {},
+        "store": {},
+        "product": {}
+    },
+    "num_feature_intro": {
+        "id": {},
+        "num_sold": {}
+    },
+    "evaluation_metric": "SMAPE"
+}

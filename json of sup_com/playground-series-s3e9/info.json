@@ -1,0 +1,25 @@
+{
+    "name": "playground-series-s3e9",
+    "source": "https://www.kaggle.com/competitions/playground-series-s3e9",
+    "data_intro": "Playground Series - Season 3, Episode 9",
+    "is_splited": true,
+    "overall_size": 12617,
+    "train_size": 5407,
+    "test_size": 3605,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {},
+    "num_feature_intro": {
+        "id": {},
+        "Strength": {},
+        "CementComponent": {},
+        "BlastFurnaceSlag": {},
+        "FlyAshComponent": {},
+        "WaterComponent": {},
+        "SuperplasticizerComponent": {},
+        "CoarseAggregateComponent": {},
+        "FineAggregateComponent": {},
+        "AgeInDays": {}
+    },
+    "evaluation_metric": "Root Mean Squared Error"
+}

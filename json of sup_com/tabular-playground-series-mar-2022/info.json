@@ -1,0 +1,22 @@
+{
+    "name": "tabular-playground-series-mar-2022",
+    "source": "https://www.kaggle.com/competitions/tabular-playground-series-mar-2022",
+    "data_intro": "Practice your ML skills on this approachable dataset!",
+    "is_splited": true,
+    "overall_size": 853515,
+    "train_size": 848835,
+    "test_size": 2340,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "time": {},
+        "direction": {}
+    },
+    "num_feature_intro": {
+        "row_id": {},
+        "congestion": {},
+        "x": {},
+        "y": {}
+    },
+    "evaluation_metric": "Mean Absolute Error"
+}

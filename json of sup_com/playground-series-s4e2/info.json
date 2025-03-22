@@ -1,0 +1,34 @@
+{
+    "name": "playground-series-s4e2",
+    "source": "https://www.kaggle.com/competitions/playground-series-s4e2",
+    "data_intro": "Playground Series - Season 4, Episode 2",
+    "is_splited": true,
+    "overall_size": 48438,
+    "train_size": 20758,
+    "test_size": 13840,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "NObeyesdad": {},
+        "Gender": {},
+        "family_history_with_overweight": {},
+        "FAVC": {},
+        "CAEC": {},
+        "SMOKE": {},
+        "SCC": {},
+        "CALC": {},
+        "MTRANS": {}
+    },
+    "num_feature_intro": {
+        "id": {},
+        "Age": {},
+        "Height": {},
+        "Weight": {},
+        "FCVC": {},
+        "NCP": {},
+        "CH2O": {},
+        "FAF": {},
+        "TUE": {}
+    },
+    "evaluation_metric": "Accuracy Score"
+}

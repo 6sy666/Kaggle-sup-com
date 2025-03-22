@@ -1,0 +1,28 @@
+{
+    "name": "tabular-playground-series-jul-2021",
+    "source": "https://www.kaggle.com/competitions/tabular-playground-series-jul-2021",
+    "data_intro": "Practice your ML skills on this approachable dataset!",
+    "is_splited": true,
+    "overall_size": 11605,
+    "train_size": 7111,
+    "test_size": 2247,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "date_time": {}
+    },
+    "num_feature_intro": {
+        "target_carbon_monoxide": {},
+        "target_benzene": {},
+        "target_nitrogen_oxides": {},
+        "deg_C": {},
+        "relative_humidity": {},
+        "absolute_humidity": {},
+        "sensor_1": {},
+        "sensor_2": {},
+        "sensor_3": {},
+        "sensor_4": {},
+        "sensor_5": {}
+    },
+    "evaluation_metric": "Mean Columnwise Root Mean Squared Logarithmic Error"
+}

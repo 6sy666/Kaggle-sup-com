@@ -1,0 +1,22 @@
+{
+    "name": "tabular-playground-series-jan-2022",
+    "source": "https://www.kaggle.com/competitions/tabular-playground-series-jan-2022",
+    "data_intro": "Practice your ML skills on this approachable dataset!",
+    "is_splited": true,
+    "overall_size": 39438,
+    "train_size": 26298,
+    "test_size": 6570,
+    "c_classes": 0,
+    "n_classes": 0,
+    "cat_feature_intro": {
+        "date": {},
+        "country": {},
+        "store": {},
+        "product": {}
+    },
+    "num_feature_intro": {
+        "row_id": {},
+        "num_sold": {}
+    },
+    "evaluation_metric": "SMAPE"
+}
