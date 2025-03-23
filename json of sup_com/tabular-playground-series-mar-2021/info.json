@@ -1,7 +1,7 @@
 {
     "name": "tabular-playground-series-mar-2021",
     "source": "https://www.kaggle.com/competitions/tabular-playground-series-mar-2021",
-    "data_intro": "Practice your ML skills on this approachable dataset!",
+    "data_intro": "The dataset is used for this competition is synthetic but based on a real dataset and generated using a CTGAN. The original dataset deals with predicting the amount of an insurance claim. Although the features are anonymized, they have properties relating to real-world features.",
     "is_splited": true,
     "overall_size": 700000,
     "train_size": 300000,
@@ -27,11 +27,11 @@
         "cat15": {},
         "cat16": {},
         "cat17": {},
-        "cat18": {}
+        "cat18": {},
+        "target": {},
+        "id": {}
     },
     "num_feature_intro": {
-        "id": {},
-        "target": {},
         "cont0": {},
         "cont1": {},
         "cont2": {},
@@ -44,5 +44,8 @@
         "cont9": {},
         "cont10": {}
     },
-    "evaluation_metric": "Area Under Receiver Operating Characteristic Curve"
+    "evaluation_metric": "Area Under Receiver Operating Characteristic Curve",
+    "task_type":"classification",
+    "target":"target",
+    "example":"https://www.kaggle.com/code/al3xrods/tabular-mar-2021-ml-dnn-approach"
 }

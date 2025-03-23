@@ -1,7 +1,7 @@
 {
     "name": "tabular-playground-series-mar-2022",
     "source": "https://www.kaggle.com/competitions/tabular-playground-series-mar-2022",
-    "data_intro": "Practice your ML skills on this approachable dataset!",
+    "data_intro": "For the March edition of the 2022 Tabular Playground Series you're challenged to forecast twelve-hours of traffic flow in a U.S. metropolis. The time series in this dataset are labelled with both location coordinates and a direction of travel -- a combination of features that will test your skill at spatio-temporal forecasting within a highly dynamic traffic network.",
     "is_splited": true,
     "overall_size": 853515,
     "train_size": 848835,
@@ -9,14 +9,17 @@
     "c_classes": 0,
     "n_classes": 0,
     "cat_feature_intro": {
-        "time": {},
-        "direction": {}
+        "time": "the 20-minute period in which each measurement was taken",
+        "direction": "the direction of travel of the roadway. EB indicates 'eastbound' travel, for example, while SW indicates a 'southwest' direction of travel."
     },
     "num_feature_intro": {
-        "row_id": {},
-        "congestion": {},
-        "x": {},
-        "y": {}
+        "row_id": "a unique identifier for this instance",
+        "congestion": "congestion levels for the roadway during each hour; the target. The congestion measurements have been normalized to the range 0 to 100.",
+        "x": "the east-west midpoint coordinate of the roadway",
+        "y": "the north-south midpoint coordinate of the roadway"
     },
-    "evaluation_metric": "Mean Absolute Error"
+    "evaluation_metric": "Mean Absolute Error",
+    "task_type":"regression",
+    "target":"congestion",
+    "example":"https://www.kaggle.com/code/tetsutani/tps-mar-2022-lgbmregressor"
 }

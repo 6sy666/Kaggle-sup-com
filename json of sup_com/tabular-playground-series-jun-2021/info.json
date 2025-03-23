@@ -1,7 +1,7 @@
 {
     "name": "tabular-playground-series-jun-2021",
     "source": "https://www.kaggle.com/competitions/tabular-playground-series-jun-2021",
-    "data_intro": "Practice your ML skills on this approachable dataset!",
+    "data_intro": "The dataset is used for this competition is synthetic, but based on a real dataset and generated using a CTGAN. The original dataset deals with predicting the category on an eCommerce product given various attributes about the listing. Although the features are anonymized, they have properties relating to real-world features.",
     "is_splited": true,
     "overall_size": 400000,
     "train_size": 200000,
@@ -98,5 +98,7 @@
         "feature_73": {},
         "feature_74": {}
     },
-    "evaluation_metric": "Multiclass Loss"
+    "evaluation_metric": "Multiclass Loss",
+    "task_type":"classification",
+    "target":"target"
 }

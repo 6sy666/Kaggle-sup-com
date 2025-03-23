@@ -95,5 +95,7 @@
         "F_4_14": {},
         "value": {}
     },
-    "evaluation_metric": "Root Mean Squared Error"
+    "evaluation_metric": "Root Mean Squared Error",
+    "task_type": "regression",
+    "target": "value"
 }
